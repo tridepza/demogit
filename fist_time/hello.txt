@@ -1,2 +1,2 @@
-﻿hello_git
+hello from FEATURE
 day 2: learning git
