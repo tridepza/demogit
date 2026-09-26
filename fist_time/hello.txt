@@ -1,2 +1,2 @@
-hello from feature 
-day2: learning git 
+hello from FEATURE
+day 2: learning git
